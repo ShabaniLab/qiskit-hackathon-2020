@@ -1,1 +1,1 @@
-# qiskit-summerjam-team3
+# Shabani Lab Qiskit Summerjam Hackathon Projects
