@@ -1,1 +1,1 @@
-# qiskit-hackathon-2020
+# qiskit-summerjam-team3
